@@ -1,0 +1,24 @@
+C:/Ruby22-x64/bin/ruby.exe -r ./siteconf20170517-11400-t8kt3z.rb extconf.rb
+
+D:\develop\rensyu\twitter_bot\vendor\bundle\ruby\2.2.0\gems\bindex-0.5.0\ext\bindex>chcp 65001 
+Active code page: 65001
+creating Makefile
+
+make "DESTDIR=" clean
+
+D:\develop\rensyu\twitter_bot\vendor\bundle\ruby\2.2.0\gems\bindex-0.5.0\ext\bindex>chcp 65001 
+Active code page: 65001
+
+make "DESTDIR="
+
+D:\develop\rensyu\twitter_bot\vendor\bundle\ruby\2.2.0\gems\bindex-0.5.0\ext\bindex>chcp 65001 
+Active code page: 65001
+generating cruby-x64-mingw32.def
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+make "DESTDIR=" install
+
+D:\develop\rensyu\twitter_bot\vendor\bundle\ruby\2.2.0\gems\bindex-0.5.0\ext\bindex>chcp 65001 
+Active code page: 65001
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20170517-11400-1m22o0a/bindex

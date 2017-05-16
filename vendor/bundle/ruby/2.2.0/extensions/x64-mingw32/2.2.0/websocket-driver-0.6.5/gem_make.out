@@ -1,0 +1,24 @@
+C:/Ruby22-x64/bin/ruby.exe -r ./siteconf20170517-11400-1junrmu.rb extconf.rb
+
+D:\develop\rensyu\twitter_bot\vendor\bundle\ruby\2.2.0\gems\websocket-driver-0.6.5\ext\websocket-driver>chcp 65001 
+Active code page: 65001
+creating Makefile
+
+make "DESTDIR=" clean
+
+D:\develop\rensyu\twitter_bot\vendor\bundle\ruby\2.2.0\gems\websocket-driver-0.6.5\ext\websocket-driver>chcp 65001 
+Active code page: 65001
+
+make "DESTDIR="
+
+D:\develop\rensyu\twitter_bot\vendor\bundle\ruby\2.2.0\gems\websocket-driver-0.6.5\ext\websocket-driver>chcp 65001 
+Active code page: 65001
+generating websocket_mask-x64-mingw32.def
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+make "DESTDIR=" install
+
+D:\develop\rensyu\twitter_bot\vendor\bundle\ruby\2.2.0\gems\websocket-driver-0.6.5\ext\websocket-driver>chcp 65001 
+Active code page: 65001
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20170517-11400-voqu42
