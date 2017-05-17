@@ -201,6 +201,7 @@ DEPENDENCIES
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
   coffee-script-source (= 1.8.0)
+  i18n
   jbuilder (~> 2.5)
   puma (~> 3.7)
   rails (~> 5.1.1)
